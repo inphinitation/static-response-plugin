@@ -6,7 +6,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	staticresponse "github.com/edgeworx/static-response-plugin"
+	staticresponse "github.com/inphinitation/static-response-plugin"
 )
 
 func TestStaticResponse(t *testing.T) {
