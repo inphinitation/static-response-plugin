@@ -5,7 +5,7 @@ displayName: Static Response Plugin
 type: middleware
 
 # The import path of your plugin.
-import: github.com/edgeworx/static-response-plugin
+import: github.com/inphinitation/static-response-plugin
 
 # A brief description of what your plugin is doing.
 summary: A Middleware plugin for Traefik that serves inline content or JSON data from its configuration.
